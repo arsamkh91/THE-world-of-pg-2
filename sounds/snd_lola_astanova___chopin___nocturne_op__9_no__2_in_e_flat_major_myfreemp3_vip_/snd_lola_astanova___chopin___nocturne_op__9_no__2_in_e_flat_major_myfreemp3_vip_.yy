@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_lola_astanova___chopin___nocturne_op__9_no__2_in_e_flat_major_myfreemp3_vip_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":272.6139,
+  "name":"snd_lola_astanova___chopin___nocturne_op__9_no__2_in_e_flat_major_myfreemp3_vip_",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_lola_astanova___chopin___nocturne_op__9_no__2_in_e_flat_major_myfreemp3_vip_.mp3",
+  "type":0,
+  "volume":1.0,
+}
